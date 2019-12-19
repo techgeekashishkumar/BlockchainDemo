@@ -2,6 +2,8 @@
 Learn Python by Building a Blockchain Cryptocurrency
 
 # Install Requirements 
+Pythn Version - 3.x
+
 cd \BlockchainDemo
 
  pip install -r requirements.txt
