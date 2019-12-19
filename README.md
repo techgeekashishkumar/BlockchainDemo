@@ -15,6 +15,7 @@ Run - python node.py
 
 # For WebUI Wallet 
 cd \webwallet
+
 By default port Number set to 5000 if you run the command without port
 
 To create multi Node Blockchain cluster it is recommeded to run with ports
@@ -46,6 +47,10 @@ Cleanup!
  * Debug mode: off
  
  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ 
+ # Open Browser - 
+ Enter URL - localhost:5000 
+ 
  
 
 
