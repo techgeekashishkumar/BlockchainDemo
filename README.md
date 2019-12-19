@@ -1,4 +1,4 @@
-# BlockchainDemo
+# Blockchain Demo
 Learn Python by Building a Blockchain Cryptocurrency
 
 # Install Requirements 
