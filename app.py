@@ -277,7 +277,7 @@ def get_nodes():
 if __name__ == '__main__':
     from argparse import ArgumentParser
     parser = ArgumentParser()
-    parser.add_argument('-p', '--port', type=int, default=5050)
+    parser.add_argument('-p', '--port', type=int, default=8080)
     args = parser.parse_args()
     port = args.port
     wallet = Wallet(port)
