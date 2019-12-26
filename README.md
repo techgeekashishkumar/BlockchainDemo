@@ -24,9 +24,9 @@ Run - python node.py -p <port number>
   
 For eaxample - 
 
-  python node.py -p 5000
+  python app.py -p 5000
   
-  python node.py -p 5001
+  python app.py -p 5001
 
 when everything is fine you get following output at your console- 
 
